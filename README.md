@@ -2,7 +2,7 @@
 
 CRM and MarTech specialist based in Berlin. I design lifecycle campaigns and campaign architecture, and I work on CRM platform and CDP setups.
 
-- 🎓 **Braze Certified Marketing Strategy Expert**
+- 🎓 **Braze Certified Marketing Strategy Expert** and **Braze Certified Technical Marketing Expert**
 - 🛠️ I build small tools to automate my own workflows, prototyping with AI (Claude) and connecting APIs, Google Sheets and Apps Script
 - 🌍 Russian (native), English, German
 
